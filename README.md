@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+#
+
+I mean, I'm not even certain if one can get this working from Github. And the Javascript modifies the default template HTML since I actually couldn't get my pre-prepared file to load on the dev server (I removed that file from this before pushing it to a remote repo). But hey, this is a React site that changes every second using some really nifty code (that uses destructured assignment, async/await, and promises!)! so I'm proud of it.
+
+Also I'm leaving the boilerplate that this came with down below, because quite frankly it's helpful to a learner like myself!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
