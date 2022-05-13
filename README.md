@@ -1,6 +1,6 @@
 # Stabbing in the dark, gloriously!
 
-I mean, this is rough. I made one file (index.jsx in /src). I'm not even certain if one can get this working straight from Github. And the Javascript modifies the default template HTML since I actually couldn't get my pre-prepared file to load on the dev server (I removed that file from this before pushing it to a remote repo). But hey, I AM DAMN PROUD OF THAT ONE FILE! This is a React site that changes every second using some really nifty code (that uses destructured assignment, async/await, and promises!)! so I'm proud of it. And there will be many more files to come! (Not in this repo, though.)
+I mean, this is rough. I made one file (index.jsx in /src). I'm not even certain if one can get this working straight from Github. ~~And the Javascript modifies the default template HTML since I actually couldn't get my pre-prepared html file to load on the dev server~~ (UPDATE: I found index.html, so if I still had a file I wanted to use, I could use it). But I AM DAMN PROUD OF MY ONE FILE! This is a React site that changes every second using some really nifty code (that uses destructured assignment, async/await, and promises!)! so I'm proud of it. And there will be many more files to come! (Not in this repo, though.)
 
 Also I'm leaving the boilerplate that this came with down below, because quite frankly it's helpful to a learner like myself!
 
